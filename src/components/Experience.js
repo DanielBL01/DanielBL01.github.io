@@ -42,8 +42,8 @@ function Experience() {
                         <h3 class="date">JUL 2017 - FEB 2019</h3>
                         <h1>Sobeys</h1>
                         <p>
-                            As a Clerk, although my work wasn't technical, I'm very proud of this experience as I continued working in my senior year in High School while maintaining 
-                            an average`{'>'}`95% to earn the President’s Scholarship of Distinction from the University of Waterloo.
+                            As a Clerk, although my work wasn't technical, I'm proud of this experience as I continued working in my senior year of High School while maintaining 
+                            an admission average`{'>'}`95% to earn the President’s Scholarship of Distinction from the University of Waterloo.
                         </p>
                     </div>
                     </li>
