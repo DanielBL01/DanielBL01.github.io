@@ -27,7 +27,7 @@ function Projects() {
                             Web application which simulates the Pokémon video game to battle, catch and train your Pokémon team.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: React, Node/Express, MongoDB, PokeAPI
+                            <b>Technologies</b>: React, Node/Express, MongoDB, PokéAPI
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/pokemon-adventure-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/pokemon-adventure-backend">Backend Code</a> | <a href="https://pokemon-adventure1.herokuapp.com/">Website</a>
@@ -61,7 +61,7 @@ function Projects() {
                             Web application which scrapes and performs text analysis on news articles given a URL.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: Python/Flask, PostgreSQL, NLTK
+                            <b>Technologies</b>: Python/Flask, PostgreSQL, NLTK, Newspaper API
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/news-analytics">Code</a> | <a href="https://newsanalytics1.herokuapp.com/">Website</a>
