@@ -6,3 +6,4 @@ TODO LIST:
 1. Add Redux for performance optimization
 2. Add hamburger menu for mobile
 3. Create nightmode option
+4. Add a Learn section talking about algorithms and data structures (with code snippets)
