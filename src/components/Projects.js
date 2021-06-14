@@ -36,7 +36,7 @@ function Projects() {
                             Web application which simulates the Pokémon video game to battle, catch and train your Pokémon team.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: React, Node/Express, MongoDB, PokéAPI
+                            <b>Technologies Used</b>: React, Node/Express, MongoDB, PokéAPI
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/pokemon-adventure-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/pokemon-adventure-backend">Backend Code</a> | <a href="https://pokemon-adventure1.herokuapp.com/">Website</a>
@@ -53,7 +53,7 @@ function Projects() {
                             Web application which matches users speaking different languages to seamlessly communicate in a one on one chat room.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: React, Node/Express, Socket.IO, MongoDB, GCP
+                            <b>Technologies Used</b>: React, Node/Express, Socket.IO, MongoDB, GCP
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/lets-chat-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/lets-chat-backend">Backend Code</a> | <a href="https://lets-chat-project.herokuapp.com/">Website</a>
@@ -70,7 +70,7 @@ function Projects() {
                             Web application which scrapes and performs text analysis on news articles given a URL.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: Python/Flask, PostgreSQL, NLTK, Newspaper API
+                            <b>Technologies Used</b>: Python/Flask, PostgreSQL, NLTK, Newspaper API
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/news-analytics">Code</a> | <a href="https://newsanalytics1.herokuapp.com/">Website</a>
@@ -87,7 +87,7 @@ function Projects() {
                             GUI application which gives auto complete suggestions using a prefix tree (trie) and detects misspelled words.
                         </div>
                         <div className="project-spacing">
-                            <b>Technologies</b>: Java, Swing
+                            <b>Technologies Used</b>: Java, Swing
                         </div>
                         <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/spell-checker">Code</a>

@@ -29,7 +29,7 @@ function Home() {
             </p>
             <p>
                 In my free time, I like to play video games, cook and take walks outside. There is a small 
-                forst beside my house with a trail which is always nice to get some fresh air.
+                forst beside my house with a trail which is always nice to use to get some fresh air.
             </p>
             <hr />
             <div className="socials">
