@@ -1,11 +1,20 @@
 import React from "react";
 import profile from "../images/profile.jpg";
+import Typewriter from "typewriter-effect";
 
 function About() {
     return (
         <div className="container">
-            <h1>About Me.</h1>
-            <p>Who am I?</p>
+            <h1>
+                <Typewriter className=""
+                    onInit={(typewriter)=> {
+                    typewriter
+                    .typeString("About Me.")
+                    .start();
+                    }}
+                /> 
+            </h1>
+            <p>Who am I? What are my interests?</p>
             <hr />
             <img className="profile" src={profile} alt="Daniel Lee" />
             <p>

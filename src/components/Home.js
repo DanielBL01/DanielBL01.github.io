@@ -2,11 +2,20 @@ import React from "react";
 import { MdMailOutline } from "react-icons/md";
 import { FiGithub } from "react-icons/fi";
 import { GrLinkedinOption } from "react-icons/gr"; 
+import Typewriter from "typewriter-effect";
 
 function Home() {
     return (
         <div className="container">
-            <h1>Hello World.</h1>
+            <h1>
+                <Typewriter className=""
+                    onInit={(typewriter)=> {
+                    typewriter
+                    .typeString("Hello World.")
+                    .start();
+                    }}
+                /> 
+            </h1>
             <p>
                 My name is Daniel Lee and I am a 2B Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.

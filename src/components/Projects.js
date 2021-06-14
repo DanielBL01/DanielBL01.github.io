@@ -3,12 +3,21 @@ import pokemon from '../images/pokemon_adventure.png';
 import chat from '../images/lets_chat.png';
 import news from '../images/news_analytics.png';
 import checker from '../images/spell_checker.png';
+import Typewriter from "typewriter-effect";
 
 function Projects() {
     return (
         <>
             <div className="container">
-                <h1>Coding Projects.</h1>
+                <h1>
+                    <Typewriter className=""
+                        onInit={(typewriter)=> {
+                        typewriter
+                        .typeString("Coding Projects.")
+                        .start();
+                        }}
+                    /> 
+                </h1>
                 <p>
                     A list of my finished projects and works in progress.
                 </p>

@@ -1,10 +1,19 @@
 import React from "react";
+import Typewriter from "typewriter-effect";
 
 function Experience() {
     return (
     <>
         <div className="container">
-            <h1>Work Experience.</h1>
+            <h1>
+                <Typewriter className=""
+                    onInit={(typewriter)=> {
+                    typewriter
+                    .typeString("Work Experience.")
+                    .start();
+                    }}
+                /> 
+            </h1>
             <p>
                 A timeline of my work experience.
             </p>
