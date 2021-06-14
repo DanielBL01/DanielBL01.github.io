@@ -24,9 +24,12 @@ function Projects() {
                             Pokémon Adventure.
                         </div>
                         <div>
-                            Web application built using React and Node which simulates the Pokémon game. Battle and catch wild Pokémon and train your team.
+                            Web application which simulates the Pokémon video game to battle, catch and train your Pokémon team.
                         </div>
-                        <div className="project-links">
+                        <div className="project-spacing">
+                            <b>Technologies</b>: React, Node/Express, MongoDB, PokeAPI
+                        </div>
+                        <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/pokemon-adventure-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/pokemon-adventure-backend">Backend Code</a> | <a href="https://pokemon-adventure1.herokuapp.com/">Website</a>
                         </div>
                     </div>
@@ -38,9 +41,12 @@ function Projects() {
                             Lets Chat.
                         </div>
                         <div>
-                            Web application built using React and Node utilizing web sockets which matches users speaking different languages to a chat room.
+                            Web application which matches users speaking different languages to seamlessly communicate in a one on one chat room.
                         </div>
-                        <div className="project-links">
+                        <div className="project-spacing">
+                            <b>Technologies</b>: React, Node/Express, Socket.IO, MongoDB, GCP
+                        </div>
+                        <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/lets-chat-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/lets-chat-backend">Backend Code</a> | <a href="https://lets-chat-project.herokuapp.com/">Website</a>
                         </div>
                     </div>
@@ -52,9 +58,12 @@ function Projects() {
                             News Analytics.
                         </div>
                         <div>
-                            Web application built using Python/Flask which scrapes and performs text analysis on news articles given a URL.
+                            Web application which scrapes and performs text analysis on news articles given a URL.
                         </div>
-                        <div className="project-links">
+                        <div className="project-spacing">
+                            <b>Technologies</b>: Python/Flask, PostgreSQL, NLTK
+                        </div>
+                        <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/news-analytics">Code</a> | <a href="https://newsanalytics1.herokuapp.com/">Website</a>
                         </div>
                     </div>
@@ -66,9 +75,12 @@ function Projects() {
                             Spell Checker.
                         </div>
                         <div>
-                            GUI application built using Java and Swing which gives auto complete suggestions using a prefix tree (trie) and detects misspelled words.
+                            GUI application which gives auto complete suggestions using a prefix tree (trie) and detects misspelled words.
                         </div>
-                        <div className="project-links">
+                        <div className="project-spacing">
+                            <b>Technologies</b>: Java, Swing
+                        </div>
+                        <div className="project-spacing">
                             <a href="https://github.com/DanielBL01/spell-checker">Code</a>
                         </div>
                     </div>
