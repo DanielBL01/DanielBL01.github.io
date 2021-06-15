@@ -9,7 +9,7 @@ function Projects() {
     return (
         <>
             <div className="container">
-                <h1>
+                <h1 className="page-header">
                     <Typewriter
                         onInit={(typewriter)=> {
                         typewriter

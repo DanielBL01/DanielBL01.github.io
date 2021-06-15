@@ -26,7 +26,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #006eff;
+    color: #19e0e0;
 }
 
 p {
@@ -40,6 +40,16 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
     border-radius: 20px;
     max-height: 250px;
+}
+
+#page-wrap {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.page-header {
+    margin-top: 50px;
 }
 
 .profile {
@@ -151,6 +161,72 @@ img {
     letter-spacing: 2px;
 }
 
+/* Styling for sidebar */
+
+.bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 36px;
+    top: 36px;
+}
+  
+.bm-burger-bars {
+    background: rgb(32, 31, 31);
+}
+
+.bm-burger-bars-hover {
+    background: #19e0e0;
+}
+
+.bm-cross-button {
+    height: 24px;
+    width: 24px;
+}
+
+.bm-cross {
+    background: #bdc3c7;
+}
+
+.bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+}
+
+.bm-menu {
+    background-color: #303030;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+}
+
+.bm-morph-shape {
+    fill: #373a47;
+}
+
+.bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+    margin: 0;
+}
+
+.bm-item {
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;
+    text-align: left;
+    text-decoration: none;
+    transition: color 0.2s;
+    margin-top: 20px;
+}
+
+.bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.bm-item:hover {
+    color: #19e0e0;
+}
+
 @media only screen and (min-width: 950px) {
     /* Responsive design for projects */
     .grid {
@@ -195,7 +271,7 @@ img {
       height: 15px;
       width: 15px;
       border-radius: 50%;
-      background-color: #006eff;
+      background-color: #19e0e0;
       top: 0px;
     }
     .timeline ul li:nth-child(odd)::before {

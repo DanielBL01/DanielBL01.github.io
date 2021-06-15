@@ -4,7 +4,7 @@ import Typewriter from "typewriter-effect";
 function Learn() {
     return (
         <div className="container">
-            <h1>
+            <h1 className="page-header">
                 <Typewriter
                     onInit={(typewriter)=> {
                     typewriter
