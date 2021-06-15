@@ -8,7 +8,7 @@ function Home() {
     return (
         <div className="container">
             <h1>
-                <Typewriter className=""
+                <Typewriter
                     onInit={(typewriter)=> {
                     typewriter
                     .typeString("Hello World.")

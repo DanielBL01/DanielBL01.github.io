@@ -6,7 +6,7 @@ function About() {
     return (
         <div className="container">
             <h1>
-                <Typewriter className=""
+                <Typewriter
                     onInit={(typewriter)=> {
                     typewriter
                     .typeString("About Me.")

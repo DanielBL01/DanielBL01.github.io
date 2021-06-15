@@ -10,7 +10,7 @@ function Projects() {
         <>
             <div className="container">
                 <h1>
-                    <Typewriter className=""
+                    <Typewriter
                         onInit={(typewriter)=> {
                         typewriter
                         .typeString("Coding Projects.")

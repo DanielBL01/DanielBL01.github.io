@@ -6,7 +6,7 @@ function Experience() {
     <>
         <div className="container">
             <h1>
-                <Typewriter className=""
+                <Typewriter
                     onInit={(typewriter)=> {
                     typewriter
                     .typeString("Work Experience.")

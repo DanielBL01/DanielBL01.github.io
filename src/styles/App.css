@@ -52,7 +52,6 @@ img {
     text-decoration: none;
     margin-left: 25px;
     margin-right: 25px;
-    font-size: 17px;
 }
 
 .options:hover {
@@ -196,7 +195,7 @@ img {
       height: 15px;
       width: 15px;
       border-radius: 50%;
-      background-color: #57a0ff;
+      background-color: #006eff;
       top: 0px;
     }
     .timeline ul li:nth-child(odd)::before {
