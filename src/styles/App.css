@@ -21,7 +21,7 @@ nav {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 5vw;
 }
 
 a {
@@ -189,7 +189,7 @@ img {
 }
 
 .bm-cross {
-    background: #bdc3c7;
+    background: #b8b7ad;
 }
 
 .bm-menu-wrap {
@@ -198,7 +198,7 @@ img {
 }
 
 .bm-menu {
-    background-color: #303030;
+    background-color: #3a3a3a;
     padding: 2.5em 1.5em 0;
     font-size: 1.15em;
 }
