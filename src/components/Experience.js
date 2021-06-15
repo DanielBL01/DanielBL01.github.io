@@ -29,26 +29,26 @@ function Experience() {
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JAN 2021 - APR 2021</h3>
+                        <h3 class="date">JAN 2021 - APR 2021 (Internship)</h3>
                         <h1>Lumenix</h1>
                         <p>
-                            As a Software Developer Intern. I was responsible for developing features end to end to production using Python/Django, jQuery and AWS.
+                            As a Software Developer, I was responsible for developing features end to end to production using Python, Django, JavaScript and AWS.
                             I also developed a new test coverage template and significantly increased test coverage by writing over 200+ test cases.
                         </p>
                     </div>
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JUL 2020 - AUG 2020</h3>
+                        <h3 class="date">JUL 2020 - AUG 2020 (Internship)</h3>
                         <h1>Lumenix</h1>
                         <p>
-                            As a Software Engineer Intern, I wrote Python scripts to connect IoT devices to AWS and architected a new Amazon DynamoDB schema to optimize and improve query performance.
+                            As a Software Engineer, I wrote Python scripts to connect IoT devices to AWS and architected a new Amazon DynamoDB schema to optimize and improve query performance.
                         </p>
                     </div>
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JUL 2017 - FEB 2019</h3>
+                        <h3 class="date">JUL 2017 - FEB 2019 (Part-Time)</h3>
                         <h1>Sobeys</h1>
                         <p>
                             As a Clerk, although my work wasn't technical, I'm proud of this experience as I continued working in my senior year of High School while maintaining 
