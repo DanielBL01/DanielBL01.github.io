@@ -33,7 +33,7 @@ function About() {
             <p>
                 I'm always eager and excited about working on projects that create positive impact.
                 The day that sparked my inspiration to become an engineer was when I listened to one of Elon Musk's interviews where he
-                talk about the importance of building things that may be useful to society and that has value to people. 
+                talked about the importance of building things that may be useful to society and that has value to people. 
                 Whether that's a small video game application or technology that can end climate change, no matter the scale, as long as it is 
                 good for a group of people, build it.
             </p>
