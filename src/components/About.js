@@ -24,17 +24,18 @@ function About() {
                 studying Mechatronics Engineering.
             </p>
             <p>
-                My primary interests are in full-stack web development. There are so many new and exciting
-                web technologies and I love to keep in touch with all the latest greatest modern web infrastructure.
-                I also really enjoy coding as a way to challenge myself and usually it's in the form of algorithms 
+                My primary interest is in full-stack web development. There are so many new and exciting
+                web technologies and I love to keep in touch with all the latest and greatest modern web infrastructure.
+                I also really enjoy coding as a way of challenge myself and usually that's in the form of algorithms 
                 and data structures. I always enjoy tackling difficult questions and it's a great way to keep my
                 computer science fundamentals fresh.
             </p>
             <p>
-                I'm always eager and excited about working on projects that have a positive impact.
-                I'm a huge Elon Musk fan, and it was incredibly inspiring to hear him talk about the importance of building
-                things that may be useful to society and that has value to people. Whether that's a small video game application
-                or technology that can end climate change, no matter the scale, as long as it is good for a group of people, build it.
+                I'm always eager and excited about working on projects that create positive impact.
+                The day that sparked my inspiration to become an engineer was when I listened to one of Elon Musk's interviews where he
+                talk about the importance of building things that may be useful to society and that has value to people. 
+                Whether that's a small video game application or technology that can end climate change, no matter the scale, as long as it is 
+                good for a group of people, build it.
             </p>
         </div>
     )

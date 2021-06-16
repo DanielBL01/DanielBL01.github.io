@@ -4,4 +4,4 @@ This is my personal website source code. Built using React and deployed to Herok
 Currently / thinking about working on:
 1. Adding Redux to optimize performance
 2. Creating nightmode option
-4. Updating the Learn section with more content and code :)
+4. Updating the Blog section with more content and code :)

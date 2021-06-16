@@ -21,15 +21,15 @@ function Home() {
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
-                Previously, I have interned at <a href="https://lumenix.com/">Lumenix </a> 
-                where I was a key member in building a platform for AIMS (Artificially Intelligent 
+                Previously a SWE intern at <a href="https://lumenix.com/">Lumenix </a>, 
+                I was a key member in building a platform for AIMS (Artificially Intelligent 
                 Monitoring System) which helps prevent the spread of hospital acquired infections. 
                 It was an amazing project to work on and just a few weeks after my term, AIMS was 
                 deployed to The Ottawa Hospital which was amazing news!
             </p>
             <p>
-                In my free time, I like to play video games, cook and take walks outside. There is a small 
-                forst beside my house with a trail which is always nice to use to get some fresh air.
+                In my free time, I like to play video games, cook and take walks outside. There is a forest 
+                right beside my house which is really nice.
             </p>
             <hr />
             <div className="socials">
