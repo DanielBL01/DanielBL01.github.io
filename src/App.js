@@ -3,7 +3,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
-import Blog from "./components/Blog";
+// import Blog from "./components/Blog";
 import Sidebar from "./components/Sidebar";
 
 import {
@@ -29,9 +29,9 @@ function App() {
               <Route path="/experience">
                 <Experience />
               </Route>
-              <Route path="/blog">
+              {/* <Route path="/blog">
                 <Blog />
-              </Route>
+              </Route> */}
               <Route path="/">
                 <Home />
               </Route>

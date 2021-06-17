@@ -1,8 +1,8 @@
 import React from "react";
-import pokemon from '../images/pokemon_adventure.png';
-import chat from '../images/lets_chat.png';
-import news from '../images/news_analytics.png';
-import checker from '../images/spell_checker.png';
+import pokemon from '../images/pokemon.png';
+import chat from '../images/chat.png';
+import news from '../images/news.png';
+import checker from '../images/checker.png';
 import Typewriter from "typewriter-effect";
 
 function Projects() {
