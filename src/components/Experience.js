@@ -24,7 +24,11 @@ function Experience() {
                 <ul>
                     <li>
                     <div class="timeline-content">
-                        <p>Seeking Fall 2021 SWE Internship Opportunities!</p>
+                        <h3 class="date">SEP 2021 - DEC 2021 (Internship)</h3>
+                        <h1>Incoming IBM</h1>
+                        <p>
+                            Back End Developer in the Cloud and Cognitive Software division.
+                        </p>
                     </div>
                     </li>
                     <li>
