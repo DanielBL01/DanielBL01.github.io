@@ -25,9 +25,11 @@ function Experience() {
                     <li>
                     <div class="timeline-content">
                         <h3 class="date">SEP 2021 - DEC 2021 (Internship)</h3>
-                        <h1>Incoming IBM</h1>
+                        <h1>IBM</h1>
                         <p>
-                            Back End Developer in the Cloud and Cognitive Software division.
+                            As a Back End Developer,  I worked with technologies such as Java, Kafka, Docker and Shell. I designed and developed
+                            a common Java library utilizing Apache to serve all RestAPI's supporting HTTP and HTTPS. I also closed numerous
+                            defects including a 3 month old Log4j logging defect.
                         </p>
                     </div>
                     </li>

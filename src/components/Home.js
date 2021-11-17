@@ -17,15 +17,18 @@ function Home() {
                 /> 
             </h1>
             <p>
-                My name is Daniel Lee and I am a 2B Mechatronics Engineering student at the 
+                My name is Daniel Lee and I an incoming 3rd Year Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
-                Previously a SWE intern at <a href="https://lumenix.com/">Lumenix </a>, 
+                Previously a SWE intern at <a href="https://lumenix.com/">Lumenix</a>, 
                 I was a key member in building a platform for AIMS (Artificially Intelligent 
                 Monitoring System) which helps prevent the spread of hospital acquired infections. 
                 It was an amazing project to work on and just a few weeks after my term, AIMS was 
                 deployed to The Ottawa Hospital which was amazing news!
+            </p>
+            <p>
+                Currently I am on my 3rd co-op as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
             </p>
             <p>
                 In my free time, I like to play video games, cook and take walks outside. There is a forest 
