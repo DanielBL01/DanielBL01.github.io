@@ -17,7 +17,7 @@ function Home() {
                 /> 
             </h1>
             <p>
-                My name is Daniel Lee and I an incoming 3rd Year Mechatronics Engineering student at the 
+                My name is Daniel Lee and I am an incoming 3rd Year Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
@@ -35,6 +35,9 @@ function Home() {
                 right beside my house which is really nice.
             </p>
             <hr />
+            <p>
+                I am currently looking for an internship for the Spring/Summer 2022 term (May - August) and I would love to chat over Linkedin or Email!
+            </p>
             <div className="socials">
                 <div className="social-link">
                     <MdMailOutline /> <a href="mailto:d274lee@uwaterloo.ca">d274lee@uwaterloo.ca</a>
