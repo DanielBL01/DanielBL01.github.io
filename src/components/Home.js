@@ -17,26 +17,22 @@ function Home() {
                 /> 
             </h1>
             <p>
-                My name is Daniel Lee and I am an incoming 3rd Year Mechatronics Engineering student at the 
+                My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
-                Previously a SWE intern at <a href="https://lumenix.com/">Lumenix</a>, 
+                Previously a Software Engineering Intern at <a href="https://lumenix.com/">Lumenix</a>, 
                 I was a key member in building a platform for AIMS (Artificially Intelligent 
                 Monitoring System) which helps prevent the spread of hospital acquired infections. 
                 It was an amazing project to work on and just a few weeks after my term, AIMS was 
                 deployed to The Ottawa Hospital which was amazing news!
             </p>
             <p>
-                Currently I am on my 3rd co-op as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
-            </p>
-            <p>
-                In my free time, I like to play video games, cook and take walks outside. There is a forest 
-                right beside my house which is really nice.
+                Currently I am working as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
             </p>
             <hr />
             <p>
-                I am currently looking for an internship for the Spring/Summer 2022 term (May - August) and I would love to chat over Linkedin or Email!
+                I am actively seeking internship opportunities for the Spring/Summer 2022 term (May - August) so feel free to reach out over Linkedin or Email!
             </p>
             <div className="socials">
                 <div className="social-link">
