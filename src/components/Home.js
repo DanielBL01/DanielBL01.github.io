@@ -32,7 +32,7 @@ function Home() {
             </p>
             <hr />
             <p>
-                I am actively seeking internship opportunities for the Spring/Summer 2022 term (May - August) so feel free to reach out over Linkedin or Email!
+                I am actively seeking internship opportunities for  Summer 2022. Feel free to reach out over Linkedin or Email!
             </p>
             <div className="socials">
                 <div className="social-link">
