@@ -24,12 +24,20 @@ function Experience() {
                 <ul>
                     <li>
                     <div class="timeline-content">
+                        <h3 class="date">MAY 2022 - AUG 2022</h3>
+                        <p>
+                            Seeking Summer 2022 Internship. Contact me!
+                        </p>
+                    </div>
+                    </li>
+                    <li>
+                    <div class="timeline-content">
                         <h3 class="date">SEP 2021 - DEC 2021 (Internship)</h3>
                         <h1>IBM</h1>
                         <p>
-                            As a Back End Developer,  I worked with technologies such as Java, Kafka, Docker and Shell. I designed and developed
-                            a common Java library utilizing Apache to serve all RestAPI's supporting HTTP and HTTPS. I also closed numerous
-                            defects including a 3 month old Log4j logging defect.
+                            As a Back End Developer,  I worked with technologies such as Java, Kafka, Docker, Shell and CentOS. 
+                            I built a common Java library to register our team project to microservices and revamped our Kafka
+                            setup procedure.
                         </p>
                     </div>
                     </li>

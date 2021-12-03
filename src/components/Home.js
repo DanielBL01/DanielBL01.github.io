@@ -24,11 +24,10 @@ function Home() {
                 Previously a Software Engineering Intern at <a href="https://lumenix.com/">Lumenix</a>, 
                 I was a key member in building a platform for AIMS (Artificially Intelligent 
                 Monitoring System) which helps prevent the spread of hospital acquired infections. 
-                It was an amazing project to work on and just a few weeks after my term, AIMS was 
-                deployed to The Ottawa Hospital which was amazing news!
+                Currently I am working as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
             </p>
             <p>
-                Currently I am working as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
+                Feel free to take a look at my<a href="/resume.pdf" target="_blank"> resume</a>.
             </p>
             <hr />
             <p>
