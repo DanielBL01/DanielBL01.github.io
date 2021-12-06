@@ -15,20 +15,19 @@ function About() {
                 /> 
             </h1>
             <p>
-                Who am I? What are my interests?
+                Who am I? What are my interests? 🤷🏻‍♀️
             </p>
             <hr />
             <img className="profile" src={profile} alt="Daniel Lee" />
             <p>
-                My name is Daniel Lee and I am a Canadian-Korean student at the University of Waterloo
-                studying Mechatronics Engineering.
+                My name is Daniel Lee and I am a Canadian-Korean student at the University of Waterloo.
             </p>
             <p>
-                My primary interest is in full-stack web development. There are so many new and exciting
-                web technologies and I love to keep in touch with all the latest and greatest modern web infrastructure.
-                I also really enjoy coding as a way of challenge myself and usually that's in the form of algorithms 
-                and data structures. I always enjoy tackling difficult questions and it's a great way to keep my
-                computer science fundamentals fresh.
+                My primary professional interests are in Back-end web development, Microservices and Big Data. What I love about
+                Software Engineering is that there is always something new and exciting to learn and I try my best to keep in touch with
+                all the latest, coolest tech. I also enjoy coding as a way of challenging myself and to improve my problem solving abilities. 
+                I always enjoy tackling algorithm and data structure problems and it's just a great way to keep my computer science 
+                fundamentals fresh.
             </p>
             <p>
                 I'm always eager and excited about working on projects that create positive impact.

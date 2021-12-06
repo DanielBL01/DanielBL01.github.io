@@ -19,7 +19,7 @@ function Projects() {
                     /> 
                 </h1>
                 <p>
-                    A list of my finished projects and works in progress.
+                    A list of my finished projects and works in progress. 🔨
                 </p>
                 <hr />
             </div>
