@@ -15,7 +15,7 @@ function About() {
                 /> 
             </h1>
             <p>
-                Who am I? What are my interests? 🤷🏻‍♀️
+                Who am I? What are my interests? 🤷🏻‍♂️
             </p>
             <hr />
             <img className="profile" src={profile} alt="Daniel Lee" />
