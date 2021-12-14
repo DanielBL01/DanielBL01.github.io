@@ -15,7 +15,7 @@ function Experience() {
                 /> 
             </h1>
             <p>
-                A timeline of my work experience. ⌚
+                A timeline of my work experience. ⏲️
             </p>
             <hr />
         </div>
@@ -36,7 +36,7 @@ function Experience() {
                         <h1>IBM</h1>
                         <p>
                             As a Back End Developer,  I worked with technologies such as Java, Kafka, Docker, Shell and CentOS. 
-                            I built a common Java library to register our team project to microservices and revamped our Kafka
+                            I built a common Java HTTP client library to register our team project to microservices and revamped our Kafka
                             setup procedure.
                         </p>
                     </div>
@@ -65,8 +65,8 @@ function Experience() {
                         <h3 class="date">JUL 2017 - FEB 2019 (Part-Time)</h3>
                         <h1>Sobeys</h1>
                         <p>
-                            As a Clerk, although my work wasn't technical, I'm proud of this experience as I continued working in my senior year of High School while maintaining 
-                            an admission average`{'>'}`95% to earn the President’s Scholarship of Distinction from the University of Waterloo.
+                            As a HMR Clerk, I worked through my senior year of High School while maintaining an admission average &gt; 95% to earn the President’s Scholarship of Distinction 
+                            from the University of Waterloo.
                         </p>
                     </div>
                     </li>
