@@ -23,18 +23,17 @@ function About() {
                 My name is Daniel Lee and I am a Canadian-Korean student at the University of Waterloo.
             </p>
             <p>
-                My primary professional interests are in Back-end web development, Microservices and Big Data. What I love about
-                Software Engineering is that there is always something new and exciting to learn and I try my best to keep in touch with
-                all the latest, coolest tech. I also enjoy coding as a way of challenging myself and to improve my problem solving abilities. 
-                I always enjoy tackling algorithm and data structure problems and it's just a great way to keep my computer science 
+                My primary professional interests are in Web Infrastructure, Backend, Microservices and Big Data. What I love most about 
+                Software Engineering is that there is always room to learn and grow. It really is a field of endless learning as current 
+                technologies improve and new ones emerge. I also enjoy coding as a way of challenging myself to improve my general problem
+                solving. I always enjoy tackling a good algorithms and data structure problem since it's a great way to keep my computer science
                 fundamentals fresh.
             </p>
             <p>
-                I'm always eager and excited about working on projects that create positive impact.
-                The day that sparked my inspiration to become an engineer was when I listened to one of Elon Musk's interviews where he
-                talked about the importance of building things that may be useful to society and that has value to people. 
-                Whether that's a small video game application or technology that can end climate change, no matter the scale, as long as it is 
-                good for a group of people, build it.
+                I'm always eager and excited about working on projects that create positive impact. A big belief of mine, inspired by Elon Musk
+                is the importance of building things that may be useful to society and that can have value to people. Whether that may be a small video 
+                game application or a technology that can end climate change, I think no matter the scale, as long as it is good for a group of people, 
+                build it.
             </p>
         </div>
     )

@@ -26,7 +26,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #16bdbd;
+    color: #18dbdb;
 }
 
 p {
@@ -171,7 +171,7 @@ img {
 .bm-burger-button {
     position: fixed;
     width: 40px;
-    height: 26px;
+    height: 30px;
     right: 36px;
     top: 36px;
 }
@@ -181,16 +181,12 @@ img {
 }
 
 .bm-burger-bars-hover {
-    background: #16bdbd;
+    background: #18dbdb;
 }
 
 .bm-cross-button {
     height: 24px;
     width: 24px;
-}
-
-.bm-cross {
-    background: #b8b7ad;
 }
 
 .bm-menu-wrap {
@@ -199,7 +195,7 @@ img {
 }
 
 .bm-menu {
-    background-color: #3a3a3a;
+    background-color: #494949;
     padding: 2.5em 1.5em 0;
     font-size: 1.15em;
 }
@@ -217,11 +213,11 @@ img {
 .bm-item {
     display: inline-block;
     color: white;
-    margin-bottom: 10px;
     text-align: left;
     text-decoration: none;
     transition: color 0.2s;
-    margin-top: 20px;
+    margin-bottom: 35px;
+    font-size: 21px;
 }
 
 .bm-overlay {
@@ -229,7 +225,7 @@ img {
 }
 
 .bm-item:hover {
-    color: #16bdbd;
+    color: #18dbdb;
 }
 
 @media only screen and (min-width: 950px) {
@@ -276,7 +272,7 @@ img {
       height: 15px;
       width: 15px;
       border-radius: 50%;
-      background-color: #16bdbd;
+      background-color: #18dbdb;
       top: 0px;
     }
     .timeline ul li:nth-child(odd)::before {
