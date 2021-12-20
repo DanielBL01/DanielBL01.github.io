@@ -21,17 +21,17 @@ function Home() {
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
-                Previously a Software Engineering Intern at <a href="https://lumenix.com/">Lumenix</a>, 
-                I was a key member in building a platform for AIMS (Artificially Intelligent 
-                Monitoring System) which helps prevent the spread of hospital acquired infections. 
-                Currently I am working as a Back End Developer Intern at <a href="https://www.ibm.com/ca-en">IBM</a>.
+                Previously, I've interned as a Back End Developer at <a href="https://www.ibm.com/ca-en">IBM</a> and as a
+                Software Engineer at <a href="https://lumenix.com/">Lumenix</a>. Since then, I've had the opportunity to work
+                in different development environments, from writing Java code in large existing codebases to building web applications from 
+                the ground up to production.
             </p>
             <p>
                 Feel free to take a look at my<a href="/resume.pdf" target="_blank"> resume</a>.
             </p>
             <hr />
             <p>
-                I am actively seeking internship opportunities for  Summer 2022. Feel free to reach out over Linkedin or Email!
+                I am actively seeking an internship opportunity for Summer 2022. Feel free to reach out to me over LinkedIn or Email!
             </p>
             <div className="socials">
                 <div className="social-link">
