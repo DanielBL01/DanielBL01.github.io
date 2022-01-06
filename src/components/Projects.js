@@ -39,7 +39,7 @@ function Projects() {
                             <b>Technologies Used</b>: React, Node/Express, MongoDB, PokéAPI
                         </div>
                         <div className="project-spacing">
-                            <a href="https://github.com/DanielBL01/pokemon-adventure-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/pokemon-adventure-backend">Backend Code</a> | <a href="https://pokemon-adventure1.herokuapp.com/">Website</a>
+                        <a href="https://pokemon-adventure1.herokuapp.com/">Website</a> | <a href="https://github.com/DanielBL01/pokemon-adventure-frontend">GitHub</a>
                         </div>
                     </div>
                     <div className="grid-item">
@@ -56,7 +56,7 @@ function Projects() {
                             <b>Technologies Used</b>: React, Node/Express, Socket.IO, MongoDB, GCP
                         </div>
                         <div className="project-spacing">
-                            <a href="https://github.com/DanielBL01/lets-chat-frontend">Frontend Code</a> | <a href="https://github.com/DanielBL01/lets-chat-backend">Backend Code</a> | <a href="https://lets-chat-project.herokuapp.com/">Website</a>
+                            <a href="https://lets-chat-project.herokuapp.com/">Website</a> | <a href="https://github.com/DanielBL01/lets-chat-frontend">GitHub</a>
                         </div>
                     </div>
                     <div className="grid-item">
@@ -73,7 +73,7 @@ function Projects() {
                             <b>Technologies Used</b>: Python/Flask, PostgreSQL, NLTK, Newspaper API
                         </div>
                         <div className="project-spacing">
-                            <a href="https://github.com/DanielBL01/news-analytics">Code</a> | <a href="https://newsanalytics1.herokuapp.com/">Website</a>
+                            <a href="https://newsanalytics1.herokuapp.com/">Website</a> | <a href="https://github.com/DanielBL01/news-analytics">GitHub</a>
                         </div>
                     </div>
                     <div className="grid-item">
@@ -90,7 +90,7 @@ function Projects() {
                             <b>Technologies Used</b>: Java, Swing
                         </div>
                         <div className="project-spacing">
-                            <a href="https://github.com/DanielBL01/spell-checker">Code</a>
+                            <a href="https://github.com/DanielBL01/spell-checker">GitHub</a>
                         </div>
                     </div>
                 </div>
