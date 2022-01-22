@@ -24,7 +24,7 @@ function Experience() {
                 <ul>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">MAY 2022 - AUG 2022 (Internship)</h3>
+                        <h3 class="date">MAY 2022 - AUG 2022 City, S/P (Internship)</h3>
                         <p>
                             Seeking Summer 2022 Internship. Feel free to contact me via Email or LinkedIn 😁.
                         </p>
@@ -32,7 +32,7 @@ function Experience() {
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">SEPT. 2021 - DEC 2021 (Internship)</h3>
+                        <h3 class="date">SEPT. 2021 - DEC 2021 Ottawa, ON (Internship)</h3>
                         <h1>IBM</h1>
                         <p>
                             As a Back End Developer, I worked with technologies such as Java, Kafka, Docker, Shell and CentOS. During 
@@ -43,7 +43,7 @@ function Experience() {
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JAN. 2021 - APR. 2021 (Internship)</h3>
+                        <h3 class="date">JAN. 2021 - APR. 2021 Toronto, ON (Internship)</h3>
                         <h1>Lumenix</h1>
                         <p>
                             As a Software Developer, I delivered some exciting features to our IoT device control platform to production. This also
@@ -54,7 +54,7 @@ function Experience() {
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JUL. 2020 - AUG. 2020 (Internship)</h3>
+                        <h3 class="date">JUL. 2020 - AUG. 2020 Toronto, ON (Internship)</h3>
                         <h1>Lumenix</h1>
                         <p>
                             As a Software Engineer, I architected a new DynamoDB schema using the primary key and global secondary index feature to improve
@@ -64,7 +64,7 @@ function Experience() {
                     </li>
                     <li>
                     <div class="timeline-content">
-                        <h3 class="date">JUL. 2017 - FEB. 2019 (Part-Time)</h3>
+                        <h3 class="date">JUL. 2017 - FEB. 2019 Ancaster, ON (Part-Time)</h3>
                         <h1>Sobeys</h1>
                         <p>
                             As a HMR Clerk, I worked through my senior year of High School while maintaining an admission average &gt; 95% to earn the President’s Scholarship of Distinction 
