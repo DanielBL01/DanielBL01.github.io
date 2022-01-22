@@ -21,9 +21,6 @@ function About() {
             <img className="profile" src={profile} alt="Daniel Lee" />
             <p>
                 My name is Daniel Lee and I am a Canadian-Korean student at the University of Waterloo studying Mechatronics Engineering. 
-                Sometimes I'm asked "What is Mechatronics Engineering?". The best description that I've seen can be found on Waterloo's
-                website which states that students in Mechatronics will "develop expertise in mechanical engineering, control engineering, electronics, 
-                and computer science".
             </p>
             <p>
                 My primary professional interests are in Web Infrastructure, Backend, Microservices and Big Data. What I love most about 
