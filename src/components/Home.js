@@ -30,9 +30,6 @@ function Home() {
                 Feel free to take a look at my<a href="/resume.pdf" target="_blank"> resume</a>.
             </p>
             <hr />
-            <p>
-                I am actively seeking an internship opportunity for Summer 2022. Feel free to reach out to me over LinkedIn or Email!
-            </p>
             <div className="socials">
                 <div className="social-link">
                     <MdMailOutline /> <a href="mailto:d274lee@uwaterloo.ca">d274lee@uwaterloo.ca</a>
