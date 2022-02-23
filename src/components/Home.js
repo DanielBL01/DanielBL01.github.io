@@ -52,7 +52,7 @@ function Home() {
             <h3>What's next?</h3>
             <p>
                 For the upcoming Summer 2022 term, I will be interning at <a href="https://www.pepperdata.com/">Pepperdata</a> as a Backend Developer. With this 
-                internship, I will be focusing on learning about Big Data and Distributed Systems!
+                internship, I hope to learn a lot about Big Data and Distributed Systems!
             </p>
             <hr />
             <div className="socials">
