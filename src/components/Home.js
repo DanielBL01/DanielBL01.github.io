@@ -17,7 +17,7 @@ function Home() {
                 /> 
             </h1>
             <p>
-                My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
+                Welcome to my corner of the internet! My name is Daniel and I am a 3rd Year Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <p>
