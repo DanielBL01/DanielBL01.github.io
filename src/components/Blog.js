@@ -1,35 +1,31 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
-import SyntaxHighlighter from 'react-syntax-highlighter';
-import { atomOneLight } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 
 function Blog() {
-    const codeString = 
-    `
-    public class Blog {
-        public static void main(String[] args) {
-            System.out.println("Welcome to my Blog!");
-        }
-    }
-    `
     return (
         <div className="container">
             <h1 className="page-header">
                 <Typewriter
                     onInit={(typewriter)=> {
                     typewriter
-                    .typeString("My Blog.")
+                    .typeString("Daniel's Blog.")
                     .start();
                     }}
                 /> 
             </h1>
             <p>
-                Check out some of my posts!
+                Welcome to my blog page! Here I'm planning to make posts about technology and life. 🗞️
             </p>
             <hr />
-            <SyntaxHighlighter language="java" style={atomOneLight} className="snippet">
-                {codeString}
-            </SyntaxHighlighter>
+            <p>
+                <h2>
+                    <a href="/content/test">First blog post.</a>
+                </h2>
+                <p>
+                    <i>February 24, 2022</i><br />
+                    This is my first blog for testing.
+                </p>
+            </p>
         </div>
     )
 }

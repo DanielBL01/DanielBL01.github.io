@@ -15,7 +15,7 @@ function Experience() {
                 /> 
             </h1>
             <p>
-                A timeline of my work experience. ⏲️
+                A timeline of my work experience. 👷🏻‍♂️
             </p>
             <hr />
         </div>

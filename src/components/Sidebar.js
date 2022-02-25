@@ -8,6 +8,7 @@ function Sidebar() {
             <a className="menu-item" href="/about">About.</a>
             <a className="menu-item" href="/projects">Projects.</a>
             <a className="menu-item" href="/experience">Experience.</a>
+            <a className="menu-item" href="/blog">Blog.</a>
       </Options>
     )
 }

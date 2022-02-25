@@ -195,7 +195,6 @@ img {
 }
 
 .bm-menu {
-    background-color: #5e5e5e;
     padding: 2.5em 1.5em 0;
     font-size: 1.15em;
 }
@@ -216,8 +215,8 @@ img {
     text-align: left;
     text-decoration: none;
     transition: color 0.2s;
-    margin-bottom: 35px;
-    font-size: 21px;
+    margin-bottom: 50px;
+    font-size: 28px;
 }
 
 .bm-overlay {
