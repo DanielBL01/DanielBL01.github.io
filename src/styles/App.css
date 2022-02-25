@@ -53,7 +53,6 @@ img {
 
 .profile {
     margin-top: 35px;
-    max-height: 500px;
 }
 
 .options {
@@ -71,16 +70,6 @@ img {
     margin: auto;
     width: 50%;
     margin-bottom: 35px;
-}
-
-.resume-containerl1 {
-    margin: auto;
-    width: 50%;
-}
-
-.resume-containerl2 {
-    margin: auto;
-    width: 50%;
 }
 
 .project-container {
@@ -119,13 +108,6 @@ img {
 
 .snippet {
     margin-top: 20px;
-}
-
-/* Styling resume pdf */
-.react-pdf__Page__canvas {
-    margin: 0 auto;
-    width: 100% !important;
-    height: 100% !important;
 }
 
 /* Styling for the timeline in the Experience section */
