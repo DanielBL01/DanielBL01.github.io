@@ -17,8 +17,8 @@ function Home() {
                 /> 
             </h1>
             <p>
-                Welcome to my corner of the internet! My name is Daniel and I am a 3rd Year Mechatronics Engineering student at the 
-                <a href="https://uwaterloo.ca/"> University of Waterloo</a>. Feel free to take a look at my<a href="/resume.pdf" target="_blank"> resume</a>.
+                Welcome to my corner of the internet! My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
+                <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <h3>Past</h3>
             <p>

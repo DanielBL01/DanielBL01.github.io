@@ -1,5 +1,6 @@
 import React from "react";
 import Home from "./components/Home";
+import Resume from "./components/Resume";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
@@ -21,6 +22,9 @@ function App() {
         <Router>
           <div>
             <Switch>
+              <Route path="/resume">
+                <Resume />
+              </Route>
               <Route path="/about">
                 <About />
               </Route>
