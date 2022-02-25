@@ -21,7 +21,7 @@ function Resume() {
             <p>
                 Here is a direct link to my <a href="/resume.pdf" target="_blank">resume</a>. Feel free to take a look!
             </p>
-            <img src={resume} alt="Daniel Lee" />
+            <img src={resume} alt="Daniel Lee's most up-to-date resume" />
         </div>
     )
 }

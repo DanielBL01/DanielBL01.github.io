@@ -27,7 +27,7 @@ function Projects() {
                 <div className="grid">
                     <div className="grid-item">
                         <div>
-                            <img src={pokemon} alt="Pokémon Adventure" />
+                            <img src={pokemon} alt="Pokémon Adventure coding project" />
                         </div>
                         <div className="project-name">
                             Pokémon Adventure.
@@ -44,7 +44,7 @@ function Projects() {
                     </div>
                     <div className="grid-item">
                         <div>
-                            <img src={chat} alt="Lets Chat" />
+                            <img src={chat} alt="Lets Chat coding project" />
                         </div>
                         <div className="project-name">
                             Lets Chat.
@@ -61,7 +61,7 @@ function Projects() {
                     </div>
                     <div className="grid-item">
                         <div>
-                            <img src={news} alt="News Analytics" />
+                            <img src={news} alt="News Analytics coding project" />
                         </div>
                         <div className="project-name">
                             News Analytics.
@@ -78,7 +78,7 @@ function Projects() {
                     </div>
                     <div className="grid-item">
                         <div>
-                            <img src={checker} alt="Spell Checker" />
+                            <img src={checker} alt="Spell Checker coding project" />
                         </div>
                         <div className="project-name">
                             Spell Checker.

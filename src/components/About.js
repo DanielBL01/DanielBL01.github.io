@@ -18,7 +18,7 @@ function About() {
                 Who am I? What are my interests? 🤷🏻‍♂️
             </p>
             <hr />
-            <img className="profile" src={profile} alt="Daniel Lee" />
+            <img className="profile" src={profile} alt="Daniel Lee in Ottawa" />
             <p>
                 My name is Daniel Lee and I am a Canadian-Korean student at the University of Waterloo studying Mechatronics Engineering, an interdisciplinary
                 program which incorporates Mechanical Engineering, Control Engineering, Electronics, and Computer Science
