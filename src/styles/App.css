@@ -29,6 +29,10 @@ a {
     color: #00c2c2;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 p {
     margin-top: 15px;
     margin-bottom: 15px;
@@ -104,7 +108,7 @@ img {
 }
 
 .socials {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .social-link {
@@ -172,6 +176,14 @@ img {
 
 /* Styling for sidebar */
 
+.sidebar-item {
+    text-decoration: none;
+}
+
+.sidebar-item:hover {
+    text-decoration: none;
+}
+
 .bm-burger-button {
     position: fixed;
     width: 40px;
@@ -219,7 +231,7 @@ img {
     text-align: left;
     text-decoration: none;
     transition: color 0.2s;
-    margin-bottom: 50px;
+    margin-bottom: 55px;
     font-size: 28px;
 }
 
