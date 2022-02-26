@@ -72,6 +72,11 @@ img {
     margin-bottom: 35px;
 }
 
+.container-without-bottom {
+    margin: auto;
+    width: 50%;
+}
+
 .project-container {
     margin: auto;
     width: 75%;
