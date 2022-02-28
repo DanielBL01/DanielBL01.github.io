@@ -7,17 +7,28 @@ import Typewriter from "typewriter-effect";
 function Home() {
     return (
         <div className="container">
-            <h1 className="page-header">
+            <h1 className="page-header-landing-page">
                 <Typewriter
+                    options={{
+                      loop: true,
+                      deleteSpeed: 40
+                    }}
+
                     onInit={(typewriter)=> {
                     typewriter
-                    .typeString("Hello World.")
+                    .pauseFor(1000)
+                    .typeString("I am an aspiring Software Engineer.")
+                    .pauseFor(1000)
+                    .deleteChars(18)
+                    .pauseFor(1000)
+                    .typeString("Entrepreneur.")
+                    .pauseFor(1000)
                     .start();
                     }}
                 /> 
             </h1>
             <p>
-                Welcome to my corner of the internet! My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
+                My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <h3>Past</h3>
