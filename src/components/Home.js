@@ -17,11 +17,11 @@ function Home() {
                     onInit={(typewriter)=> {
                     typewriter
                     .pauseFor(1000)
-                    .typeString("I am an aspiring Software Engineer.")
+                    .typeString("I am a Software Engineer.")
                     .pauseFor(1000)
-                    .deleteChars(18)
+                    .deleteChars(20)
                     .pauseFor(1000)
-                    .typeString("Entrepreneur.")
+                    .typeString("an aspiring Entrepreneur.")
                     .pauseFor(1000)
                     .start();
                     }}
