@@ -14,7 +14,7 @@ function Blog() {
                 /> 
             </h1>
             <p>
-                Welcome to my blog page! Here I'm planning to make posts about technology and life. 🗞️
+                Welcome to my blog page! See my posts about career, technology and life. 🗞️
             </p>
             <hr />
             <p>
