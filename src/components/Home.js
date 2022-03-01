@@ -7,7 +7,7 @@ import Typewriter from "typewriter-effect";
 function Home() {
     return (
         <div className="container">
-            <h1 className="page-header-landing-page">
+            <h1 className="page-header">
                 <Typewriter
                     options={{
                       loop: true,
@@ -17,12 +17,17 @@ function Home() {
                     onInit={(typewriter)=> {
                     typewriter
                     .pauseFor(1000)
-                    .typeString("I am a Software Engineer.")
+                    .typeString("Hello World.")
                     .pauseFor(1000)
-                    .deleteChars(20)
+                    .deleteAll()
                     .pauseFor(1000)
-                    .typeString("an aspiring Entrepreneur.")
+                    .typeString("Daniel Lee.")
                     .pauseFor(1000)
+                    .deleteAll()
+                    .pauseFor(1000)
+                    .typeString("Software Engineer.")
+                    .pauseFor(1000)
+                    .deleteAll()
                     .start();
                     }}
                 /> 
