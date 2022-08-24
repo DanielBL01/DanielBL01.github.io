@@ -27,7 +27,8 @@ function Experience() {
                         <h3 class="date">MAY 2022 - AUG 2022 (Internship)</h3>
                         <h1>Pepperdata</h1>
                         <p>
-                            Incoming Backend Developer working with Big Data and Large-Scale Distributed Systems
+                            As Backend Developer, I owned a project called the <i>Cloud Config Generator</i> to create, modify and version configurations of
+                            Pepperdata's cloud installs. I also assisted in leading the R&D for a metrics ingestion tool to collect historical cluster and node metrics.
                         </p>
                     </div>
                     </li>
@@ -37,8 +38,7 @@ function Experience() {
                         <h1>IBM</h1>
                         <p>
                             As a Backend Developer, I worked with technologies such as Java, Kafka, Docker, Shell and CentOS. During 
-                            my term, I developed a common HTTP client library in Java to connect our team project to microservices. I also
-                            revamped our Kafka setup procedure to reduce file generation time.
+                            my term, I developed a common HTTP client library in Java to connect our team project to microservices.
                         </p>
                     </div>
                     </li>
@@ -47,9 +47,8 @@ function Experience() {
                         <h3 class="date">JAN. 2021 - APR. 2021 Toronto, ON (Internship)</h3>
                         <h1>Lumenix</h1>
                         <p>
-                            As a Software Developer, I delivered some exciting features to our IoT device control platform to production. This also
-                            included writing Lambda functions on AWS to store event data from API Gateway to DynamoDB and streaming data from DynamoDB
-                            in real-time using jQuery and Ajax to display to clients.
+                            As a Software Developer, I delivered full-stack features to our IoT device control platform to production for a <i>Minimum Viable Product</i>. I also
+                            built a data pipeline on AWS for real-time event updates.
                         </p>
                     </div>
                     </li>
@@ -59,7 +58,7 @@ function Experience() {
                         <h1>Lumenix</h1>
                         <p>
                             As a Software Engineer, I architected a new DynamoDB schema using the primary key and global secondary index feature to improve
-                            query flexibility and performance. I also wrote some Python scripts to connect IoT devices to AWS IoT Core.
+                            query flexibility. I also wrote Python scripts for a pub/sub messaging.
                         </p>
                     </div>
                     </li>

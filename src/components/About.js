@@ -24,8 +24,8 @@ function About() {
                 program which incorporates Mechanical Engineering, Control Engineering, Electronics, and Computer Science
             </p>
             <p>
-                My professional goal is become a Software Engineer working in the field of Backend & Infrastructure, Distributed Systems, Microservices and Big Data. What I love most about 
-                Software Engineering is that there is always room to learn and grow. It really is a field of endless learning as current 
+                My professional goal is become a software engineer working in the field of backend & infrastructure, distributed systems and big data. What I love most about 
+                software engineering is that there is always room to learn and grow. It really is a field of endless learning as current 
                 technologies improve and new ones emerge. I also enjoy coding as a way of challenging myself to improve my general problem
                 solving. I always enjoy tackling a good algorithms and data structure problem since it's a great way to keep my computer science
                 fundamentals fresh.

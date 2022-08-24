@@ -19,7 +19,7 @@ function Resume() {
             </p>
             <hr />
             <p>
-                Here is a direct link to my <a href="/resume.pdf" target="_blank">resume</a>. Feel free to take a look!
+                Here is a direct link to my <a href="/resume.pdf" target="_blank">resume</a>.
             </p>
             <img src={resume} alt="Daniel Lee's most up-to-date resume" />
         </div>
