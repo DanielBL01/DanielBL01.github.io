@@ -43,7 +43,7 @@ function Home() {
             </p>
             <h3>Present</h3>
             <p>
-                I am currently in my 3B term seeking <b>Winter (January - April)</b> and <b>Summer (May - August) 2023 internships</b>. Please feel free to reach out to me via email or linkedin!
+                I am currently in my 3B term seeking <b>Spring (January - April)</b> and <b>Summer (May - August) 2023 internships</b>. Please feel free to reach out to me via email or linkedin!
             </p>
             <p>
                 I am currently reading the following books/resources.
