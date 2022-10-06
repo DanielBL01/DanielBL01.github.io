@@ -33,7 +33,7 @@ function Home() {
                 /> 
             </h1>
             <p>
-                My name is Daniel Lee and I am a 3rd Year Mechatronics Engineering student at the 
+                My name is Daniel Lee and I am a mechatronics engineering student set to graduate Spring 2024 at the 
                 <a href="https://uwaterloo.ca/"> University of Waterloo</a>.
             </p>
             <h3>Past</h3>
